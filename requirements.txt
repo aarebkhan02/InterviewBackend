@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+python-multipart
+# mediapipe==0.10.31
+# opencv-python
+numpy
+pydantic
+python-dotenv
+groq
+pdfplumber
+python-docx
+# mediapipe==0.10.9
+# opencv-python

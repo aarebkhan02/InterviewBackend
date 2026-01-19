@@ -11,7 +11,7 @@ app = FastAPI()
 origins = [
     "http://localhost:5173",
     "http://127.0.0.1:5173",
-     "https://ai-interviewer-c4nl.onrender.com"
+    "https://aivasensei.vercel.app"
     # add your deployed frontend URL here later
 ]
 
